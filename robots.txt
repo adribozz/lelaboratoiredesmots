@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /_gen/
+Sitemap: https://le-laboratoire-des-mots.fr/sitemap.xml

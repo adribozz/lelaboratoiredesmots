@@ -1,0 +1,6 @@
+_gen
+.git
+.gitignore
+.dockerignore
+Dockerfile
+*.md
